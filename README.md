@@ -88,3 +88,12 @@ Applicability of JOIN Operations
 Applications of JOIN operations are immense, ranging from:
 
 Data Engineering includes ETL processes and data warehousing. - Database Administration: data validation, reporting - Business Intelligence: Dashboards, analytics Application Development: back-end database queries - Academic and professional assessments It presupposes proficiency in JOIN operations for roles like Data Engineer, Database Administrator-DBA, SQL Developer, and Data Analyst. In fact, JOINs are central to extracting meaningful insights from relational data across different industries, including but not limited to banking, healthcare, e-commerce, education, and telecommunications. Conclusion In short, INNER, LEFT, RIGHT, and FULL JOINs are basic skills in database practice that will help to combine data meaningfully across more than one table. The use of MySQL Workbench as an IDE enhances productivity and clarity in executing and validating JOIN queries. This exercise will strengthen your SQL knowledge and prepare you for facing real-world challenges in databases, reporting requirements, and professional demands in data-intensive environments.
+
+##OUTPUT
+<img width="862" height="226" alt="Image" src="https://github.com/user-attachments/assets/4f69f730-9fb9-473f-b117-9a217e6a46b6" />
+
+<img width="1658" height="305" alt="Image" src="https://github.com/user-attachments/assets/3255b55b-24d4-4174-b7b5-275c4a08229f" />
+
+<img width="1662" height="310" alt="Image" src="https://github.com/user-attachments/assets/4a29ff59-e191-4d2b-b891-f8709ea6ca9c" />
+
+<img width="1581" height="241" alt="Image" src="https://github.com/user-attachments/assets/c3ac115a-b116-4657-9cc4-607fcff766ae" />
